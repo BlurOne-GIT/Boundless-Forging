@@ -1,0 +1,4 @@
+name: BoundlessForging
+version: '${project.version}'
+main: code.blurone.boundlessforging.Boundless_Forging
+api-version: '1.20'
