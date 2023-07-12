@@ -5,7 +5,6 @@ import org.bukkit.event.EventPriority
 import org.bukkit.event.Listener
 import org.bukkit.event.inventory.PrepareAnvilEvent
 import org.bukkit.plugin.java.JavaPlugin
-import java.awt.List
 
 class BoundlessForging : JavaPlugin(), Listener {
     override fun onEnable() {
