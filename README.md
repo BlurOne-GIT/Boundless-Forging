@@ -1,2 +1,2 @@
 # Boundless-Forging
-Minecraft Spigot plugin that removes the "Too expensive" anvil experience cap while still augmenting the experience cost.
+Minecraft Spigot plugin that removes the "Too expensive" anvil experience cap by clamping the cost.
