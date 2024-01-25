@@ -1,0 +1,2 @@
+# If there are other plugins changing the max repair cost, and/or the anvils start showing the "Too Expensive" message, set this to true.
+forceMaxRepairCost: false
